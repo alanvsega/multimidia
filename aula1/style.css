@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+
+button#enter {
+    color: red;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+input#nome {
+    color: yellow;
+    background-color: green;
+    font-family: 'Comic Sans MS';
+}
+
+input#nome:focus {
+    color: orange;
+    background-color: greenyellow;
+}
+
+h4 {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
